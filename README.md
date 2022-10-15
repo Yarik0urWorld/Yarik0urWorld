@@ -1,4 +1,4 @@
-Hi! I am 12 y.o. programmer! I can program on C, Python, Java, bash.
+Hi! I am 12 y.o. programmer! I can code on C, Python, Java, bash.
 I'm currently learning C# + Unity, but I think C + OpenGL1.1 is much better.
 I'm currently working on SnS: Snowman Shooter. Coming soon :)
 
